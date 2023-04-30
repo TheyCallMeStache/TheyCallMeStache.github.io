@@ -4,8 +4,8 @@ description: "A SysAdmin's Blog" # This will show up in places like twitter, lin
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
-#email: "TheyCallMeStache@Outlook.com"
-twitter_username: "twitteruser"
+email: "TheyCallMeStache@Outlook.com"
+#twitter_username: "twitteruser"
 github_username: "TheyCallMeStache"
 #linkedin_username: "linkedinuser"
 #facebook_username: username
