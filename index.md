@@ -1,5 +1,11 @@
-Here you can say lots of fun things about your site.
+Welcome! I am a new sysadmin who has decided that I needed to keep track of what I was working on so I could
+reference it when I eventually forget. I hope you find osme use out of any of the information I post here.
 
-Maybe say a some things about yourself.
+My Current Interests/Goals :
+  - Powershell
+  - Windows Administration (AD DS, WSUS, SCCM, WDS, MDT , etc)
+  - Red Had Linux Administration
+  - Automation
+  - Infrastrucre as Code
 
-Or maybe what you plan to blog about.
+Feel free to reach out and get in touch.
