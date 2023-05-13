@@ -6,6 +6,6 @@ My Current Interests/Goals :
   - Windows Administration (AD DS, WSUS, SCCM, WDS, MDT , etc)
   - Red Had Linux Administration
   - Automation
-  - Infrastrucre as Code
+  - Infrastructure as Code
 
 Feel free to reach out and get in touch.
